@@ -1,6 +1,6 @@
 # oop-php-crud-
 
-###Hou to run ??
+### Hou to run ??
 + import medicene.sql in your database
 + clone all file inside htdocs folder (xamp)
 
